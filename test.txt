@@ -1,0 +1,3 @@
+ادوات تقييم اداء النموذج
+1 - confusion matrix [predicted (p or n), actual ]
+2 - Classification report   => to show (Accuracy , F1 score , AUC score)
